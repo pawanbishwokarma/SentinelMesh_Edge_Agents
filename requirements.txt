@@ -1,0 +1,10 @@
+# Databricks notebook environment dependencies
+mlflow>=3.9
+databricks-sdk
+databricks-langchain
+unitycatalog-ai[databricks]
+databricks-agents
+pandas
+numpy
+openai
+backoff
